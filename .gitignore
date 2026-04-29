@@ -1,0 +1,2 @@
+#hide the .env file which contains the API key
+.env
